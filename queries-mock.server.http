@@ -1,0 +1,8 @@
+# Get mock data from fake server
+GET http://localhost:3123/users HTTP/1.1
+
+###
+# Get mock data from fake server
+GET http://localhost:3123/users2 HTTP/1.1
+
+###

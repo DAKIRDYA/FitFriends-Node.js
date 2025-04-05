@@ -1,0 +1,5 @@
+export enum UserLevel {
+  BEGINNER = 'BEGINNER',
+  ADVANCED = 'ADVANCED',
+  PROFESSIONAL = 'PROFESSIONAL'
+}

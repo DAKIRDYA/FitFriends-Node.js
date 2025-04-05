@@ -1,0 +1,25 @@
+Olga	red.png	ADVANCED	BOXING;STRETCHING	MIN30_50	200	4000	Аэробика - занятия аэробикой в зале с инструктором	FEMALE	aerobics.mp4	1	Dmitry	FALSE
+Elena	pink.png	ADVANCED	BOXING;STRETCHING;CROSSFIT	MIN50_80	400	2000	Кроссфит - разноуровневые занятия в зале и улице с инструктором	FEMALE	aerobics.mp4	4	Vladimir	FALSE
+Alexander	red.png	ADVANCED	YOGA;BOXING;STRETCHING	MIN80_100	300	1000	Аэробика - занятия аэробикой в зале с инструктором	MALE	aerobics.mp4	1	Dmitry	TRUE
+Grigoriy	black.png	ADVANCED		MIN30_50	200	3000	Йога - занятия в зале с инструктором	MALE	stretching.mp4	4	Elena	TRUE
+Olga	green.png	ADVANCED	AEROBICS;PILATES	MIN10_30	300	2000	Бег - пробежка в среднем или низком темпе на улице	FEMALE	crossfit.mp4	3	Alexander	TRUE
+Vladimir	green.png	ADVANCED	YOGA;BOXING;STRETCHING	MIN50_80	400	4000	Растяжка - занятия растяжкой в зале с инструктором	MALE	yoga.mp4	3	Alexander	TRUE
+Maria	yellow.png	ADVANCED	AEROBICS;PILATES	MIN50_80	200	1000	Бокс - занятия боксом в зале с инструктором	FEMALE	boxing.mp4	2	Maria	FALSE
+Alexander	pink.png	ADVANCED	AEROBICS;PILATES	MIN50_80	300	4000	Аэробика - занятия аэробикой в зале с инструктором	MALE	boxing.mp4	3	Vladimir	TRUE
+Olga	black.png	ADVANCED	STRETCHING;CROSSFIT;AEROBICS	MIN50_80	400	1000	Йога - занятия в зале с инструктором	FEMALE	yoga.mp4	5	Maria	FALSE
+Grigoriy	black.png	BEGINNER	BOXING;STRETCHING;CROSSFIT	MIN10_30	200	4000	Кроссфит - разноуровневые занятия в зале и улице с инструктором	MALE	run.mp4	0	Vladimir	TRUE
+Dmitry	white.png	ADVANCED	AEROBICS;PILATES	MIN30_50	400	4000	Бег - пробежка в среднем или низком темпе на улице	MALE	boxing.mp4	2	Alexander	FALSE
+Sergey	pink.png	ADVANCED	PILATES	MIN50_80	100	3000	Аэробика - занятия аэробикой в зале с инструктором	MALE	aerobics.mp4	1	Elena	TRUE
+Vladimir	black.png	PROFESSIONAL	CROSSFIT;AEROBICS;PILATES	MIN50_80	200	4000	Бокс - занятия боксом в зале с инструктором	MALE	pilates.mp4	2	Dmitry	TRUE
+Grigoriy	red.png	ADVANCED	AEROBICS;PILATES	MIN50_80	200	5000	Бег - пробежка в среднем или низком темпе на улице	MALE	yoga.mp4	1	Dmitry	TRUE
+Grigoriy	red.png	ADVANCED	YOGA;BOXING;STRETCHING	MIN30_50	100	3000	Аэробика - занятия аэробикой в зале с инструктором	MALE	pilates.mp4	3	Vladimir	TRUE
+Olga	yellow.png	BEGINNER	CROSSFIT;AEROBICS;PILATES	MIN80_100	200	4000	Бег - пробежка в среднем или низком темпе на улице	FEMALE	pilates.mp4	1	Elena	FALSE
+Vladimir	grey.png	BEGINNER	RUN;YOGA;BOXING	MIN10_30	300	3000	Бокс - занятия боксом в зале с инструктором	MALE	stretching.mp4	0	Maria	FALSE
+Maria	white.png	BEGINNER	BOXING;STRETCHING;CROSSFIT	MIN80_100	100	4000	Бег - пробежка в среднем или низком темпе на улице	FEMALE	pilates.mp4	3	Vladimir	TRUE
+Dmitry	green.png	ADVANCED	BOXING;STRETCHING;CROSSFIT	MIN30_50	400	3000	Бег - пробежка в среднем или низком темпе на улице	MALE	aerobics.mp4	3	Maria	FALSE
+Maria	orange.png	PROFESSIONAL	CROSSFIT;AEROBICS;PILATES	MIN30_50	500	2000	Кроссфит - разноуровневые занятия в зале и улице с инструктором	FEMALE	yoga.mp4	1	Elena	TRUE
+Sergey	purple.png	BEGINNER	CROSSFIT;AEROBICS;PILATES	MIN80_100	400	4000	Бокс - занятия боксом в зале с инструктором	MALE	crossfit.mp4	1	Olga	FALSE
+Alexander	green.png	BEGINNER	RUN;YOGA;BOXING	MIN80_100	500	4000	Бокс - занятия боксом в зале с инструктором	MALE	run.mp4	4	Maria	TRUE
+Dmitry	pink.png	BEGINNER	BOXING;STRETCHING;CROSSFIT	MIN30_50	300	2000	Бокс - занятия боксом в зале с инструктором	MALE	aerobics.mp4	2	Alexander	FALSE
+Sergey	grey.png	PROFESSIONAL	BOXING;STRETCHING;CROSSFIT	MIN50_80	300	2000	Йога - занятия в зале с инструктором	MALE	yoga.mp4	4	Olga	FALSE
+Elena	green.png	ADVANCED	RUN;YOGA;BOXING	MIN80_100	300	2000	Бокс - занятия боксом в зале с инструктором	FEMALE	stretching.mp4	1	Elena	TRUE

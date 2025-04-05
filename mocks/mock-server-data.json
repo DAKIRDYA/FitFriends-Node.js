@@ -1,0 +1,279 @@
+{
+  "users":{
+  "names": ["Dmitry",
+           "Elena",
+           "Grigoriy",
+           "Alexander",
+           "Vladimir",
+           "Maria",
+           "Sergey",
+           "Olga"
+          ],
+  "emails": [
+            "dmitry@yandex.ru",
+            "elena@yandex.ru",
+            "grigoriy@yandex.ru",
+            "alexander@yandex.ru",
+            "vladimir@yandex.ru",
+            "maria@yandex.ru",
+            "serey@yandex.ru",
+            "olga@yandex.ru"
+            ],
+  "avatars":[
+            "avatarDmitry.png",
+            "avatarElena.png",
+            "avatarGrigoriy.png",
+            "avatarAlexander.png",
+            "avatarVladimir.png",
+            "avatarMaria.png",
+            "avatarSergey.png",
+            "avatarOlga.png"
+],
+  "genders": [
+             "MALE",
+             "FEMALE",
+             "MALE",
+             "MALE",
+             "MALE",
+             "FEMALE",
+             "MALE",
+             "FEMALE"
+            ],
+
+  "birthdays": [
+              "1978-05-23T08:45:40.284Z",
+              "1980-07-22T10:45:40.284Z",
+              "1995-01-05T12:45:40.284Z",
+              "1990-05-13T14:45:40.284Z",
+              "1985-03-18T16:45:40.284Z",
+              "1992-02-05T18:45:40.284Z",
+              "1993-06-19T20:45:40.284Z",
+              "1988-11-11T22:45:40.284Z"
+              ],
+  "descriptions":[
+                "Люблю кататься на лыжах",
+                "Люблю бегать",
+                "Люблю ходить пешком",
+                "Люблю заниматься йогой",
+                "Люблю заниматься боксом",
+                "Люблю заниматься спортом",
+                "Люблю заниматься плаванием",
+                "Люблю заниматься теннисом"
+                ],
+  "locations":[
+                "PETROGRADSKAYA",
+                "PIONERSKAYA",
+                "UDELNAYA",
+                "ZVEZDNYAYA",
+                "SPORTIVNYAYA"
+              ],
+
+  "backgrounds":[
+                "blue.png",
+                "red.png",
+                "green.png",
+                "yellow.png",
+                "orange.png",
+                "purple.png",
+                "pink.png",
+                "grey.png",
+                "black.png",
+                "white.png"
+                ],
+  "levels": [
+            "BEGINNER",
+            "ADVANCED",
+            "PROFESSIONAL"
+            ],
+
+  "workouts":[
+            "RUN",
+            "YOGA",
+            "BOXING",
+            "STRETCHING",
+            "CROSSFIT",
+            "AEROBICS",
+            "PILATES"
+          ],
+
+
+  "times":[
+          "MIN30_50",
+          "MIN10_30",
+          "MIN50_80",
+          "MIN80_100"
+        ],
+  "calories":[
+              1000,
+              2000,
+              3000,
+              4000,
+              5000
+            ],
+  "caloriesPerDay":[
+    1100,
+    1200,
+    1300,
+    1400,
+    1500
+  ],
+  "isReadys":[
+      true,
+      false
+  ],
+  "roles":[
+    "USER",
+    "ADMIN"
+  ]
+},
+"trainings":{
+  "names": [
+           "Dmitry",
+           "Elena",
+           "Grigoriy",
+           "Alexander",
+           "Vladimir",
+           "Maria",
+           "Sergey",
+           "Olga"
+          ],
+  "backgrounds":[
+      "blue.png",
+      "red.png",
+      "green.png",
+      "yellow.png",
+      "orange.png",
+      "purple.png",
+      "pink.png",
+      "grey.png",
+      "black.png",
+      "white.png"
+  ],
+      "levels" : [
+        "BEGINNER",
+        "ADVANCED",
+        "PROFESSIONAL"
+      ],
+       "workouts": [
+        "RUN",
+        "YOGA",
+        "BOXING",
+        "STRETCHING",
+        "CROSSFIT",
+        "AEROBICS",
+        "PILATES"
+       ],
+       "times":[
+        "MIN30_50",
+        "MIN10_30",
+        "MIN50_80",
+        "MIN80_100"
+      ],
+       "prices": [
+          100,
+          200,
+          300,
+          400,
+          500
+       ],
+       "calories":[
+        1000,
+        2000,
+        3000,
+        4000,
+        5000
+      ],
+      "descriptions":[
+        "Бег - пробежка в среднем или низком темпе на улице",
+        "Йога - занятия в зале с инструктором",
+        "Бокс - занятия боксом в зале с инструктором",
+        "Растяжка - занятия растяжкой в зале с инструктором",
+        "Кроссфит - разноуровневые занятия в зале и улице с инструктором",
+        "Аэробика - занятия аэробикой в зале с инструктором",
+        "Пилатес - занятия пилатесом в зале с инструктором"
+        ],
+        "genders": [
+          "MALE",
+          "FEMALE",
+          "MALE",
+          "MALE",
+          "MALE",
+          "FEMALE",
+          "MALE",
+          "FEMALE"
+         ],
+
+          "videos": [
+            "run.mp4",
+            "yoga.mp4",
+            "boxing.mp4",
+            "stretching.mp4",
+            "crossfit.mp4",
+            "aerobics.mp4",
+            "pilates.mp4"
+          ],
+          "ratings": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+
+          "trainers":[
+            "Alexander",
+            "Olga",
+            "Maria",
+            "Elena",
+            "Vladimir",
+            "Dmitry"
+          ],
+          "specials":[
+            "TRUE",
+            "FALSE"
+          ]
+        },
+    "reviews":{
+      "grades":[
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "messages":[
+        "Мне понравилось бегать в лесу",
+        "Мне понравилась йога",
+        "Мне понравился бокс",
+        "Мне понравилась растяжка",
+        "Мне понравился кроссфит",
+        "Мне понравилась аэробика",
+        "Мне понравился пилатес"
+      ]
+    },
+    "orders":{
+      "types":[
+        "TRAINING"
+      ],
+      "prices": [
+        100,
+        200,
+        300,
+        400,
+        500
+     ],
+     "counts" : [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "payways": [
+      "VISA",
+      "MIR",
+      "UMONEY"
+     ]
+    }
+}
