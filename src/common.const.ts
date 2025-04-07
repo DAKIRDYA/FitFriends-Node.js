@@ -9,3 +9,5 @@ export const MOCK_SERVER_ORDERS_PATH = '/orders';
 
 export const FIRST_WEEK_DAY = 1;
 export const LAST_WEEK_DAY = 7;
+
+export const LOG_FILE_PATH = './logs/rest.log';
